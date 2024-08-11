@@ -44,8 +44,7 @@ The model demonstrates significant improvements in removing motion artifacts com
 
 ## Acknowledgments
 
-I extend my sincere gratitude to my supervisor, Prof. Shufan Yang, for her guidance and support throughout this project. Special thanks to my friend Adesh for his valuable feedback and encouragement.
-
+I extend my sincere gratitude to my supervisor, Prof. Shufan Yang, for her guidance and support throughout this project.
 ## Contact
 
 For questions or collaboration opportunities, please contact me at krishnapavanimunta@gmail.com.
